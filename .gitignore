@@ -1,0 +1,6 @@
+# Arquivos compilados Java
+*.class
+
+# Diretórios de saída
+/target/
+/bin/
